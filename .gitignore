@@ -1,0 +1,5 @@
+.cabal-sandbox/
+cabal.sandbox.config
+dist/
+reverb-scraper.cabal
+.stack-work/
